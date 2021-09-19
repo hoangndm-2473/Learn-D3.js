@@ -2,8 +2,10 @@
 <h1>Learn-D3.js</h1>
 </div>
 
-### This is a monthly report for september 2021 - Nguyen Duc Minh Hoang
-###
+### Monthly Report Tháng 9 _ Nguyễn Đức Minh Hoàng
+### Mini Project IMG: 
+![242057147_1597803393885720_2701010476720514298_n](https://user-images.githubusercontent.com/60843577/133935805-4d1172dd-f1cd-401b-84f3-6c268bf70e69.jpeg)
+
 ###  Trong bài viết này chúng ta sẽ cùng đi tìm hiểu một số khái niệm cơ bản trong d3.js
 ---
 
