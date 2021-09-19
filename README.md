@@ -7,6 +7,7 @@
  ![Screen Shot 2021-09-19 at 23 45 59](https://user-images.githubusercontent.com/60843577/133935830-bff2d787-daf2-4eef-aaab-94ebfa945d9f.png)
 
 ###  Trong bài viết này chúng ta sẽ cùng đi tìm hiểu một số khái niệm cơ bản trong d3.js
+Nguồn tham khảo: https://wattenberger.com/blog/d3
 ---
 
 ## Grabbing data
